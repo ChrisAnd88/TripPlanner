@@ -1,0 +1,6 @@
+Country: norway
+Number of people: 40
+Name of hotel:  berg
+Duration of stay: 3
+Hours of skiing: 12
+Number of skiers: 20
